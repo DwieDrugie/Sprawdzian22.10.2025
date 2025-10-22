@@ -45,25 +45,25 @@
 
     <RadioButton
         android:layout_width="wrap_content"
-        android:layout_height="wrap_content"
+        android:layout_height="65dp"
         android:text="@string/Radio1"
-        android:textSize="30sp"
+        android:textSize="25sp"
         android:padding="15dp"
         android:layout_marginStart="10sp"
         />
     <RadioButton
         android:layout_width="wrap_content"
-        android:layout_height="wrap_content"
+        android:layout_height="65sp"
         android:text="@string/Radio2"
-        android:textSize="30sp"
+        android:textSize="25sp"
         android:padding="15dp"
         android:layout_gravity="center"
         />
     <RadioButton
         android:layout_width="wrap_content"
-        android:layout_height="wrap_content"
+        android:layout_height="65dp"
         android:text="@string/Radio1"
-        android:textSize="30sp"
+        android:textSize="25sp"
         android:padding="15dp"
         android:layout_gravity="end"
         />
@@ -218,6 +218,11 @@
         android:textAlignment="center"
         android:textSize="20dp"
         android:layout_gravity="center"
+        />
+
+    <Button
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
         />
 
 
