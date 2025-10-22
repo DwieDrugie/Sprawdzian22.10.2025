@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">Sprawdzian</string>
+    <string name="klasa">4dp</string>
+    <string name="grupa">Gr</string>
+    <string name="jeden">1</string>
+    <string name="Radio1">Technik</string>
+    <string name="Radio2">Programista</string>
+    <string name="Radio3">4d</string>
+    <string name="button">Button</string>
+    <string name="Name">Patryk Bilig</string>
+</resources>
